@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
   ![Snake animation](https://github.com/Luponsky/Luponsky/blob/output/github-contribution-grid-snake.svg)
+-->
+  
+<div align="center">
+    
+  ![snake gif](https://github.com/Luponsky/Luponsky/blob/output/github-snake-dark.svg)
+</div>
